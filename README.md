@@ -1,6 +1,6 @@
 ### Olá Mundo 👋🏼
 
-👨🏻 Meu nome é Cesar e sou programador Full-Stack
+👨🏻 Meu nome é Cesar e sou programador Full Stack
 
 🛠 Tecnologias que utilizo:<br>
 HTML 5 // CSS 3 // JavaScript // Bootstrap 4 & 5 // PHP 7 & 8 // Python 3 // MySQL
