@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá Mundo 👋🏼
 
-<!--
-**cesarmanholer/cesarmanholer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻 Meu nome é Cesar e sou programador Full-Stack
 
-Here are some ideas to get you started:
+🛠 Tecnologias que utilizo:<br>
+HTML 5 // CSS 3 // JavaScript // Bootstrap 4 & 5 // PHP 7 & 8 // Python 3 // MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Tecnologias que estou aprendendo atualmente: <br>
+React Native & Flutter <br>
+Metodos UX/UI <br>
+TypeScript <br>
+
+🔨 Projetos que desenvolvi: <br>
+[Photoshare](https://github.com/cesarmanholer/photoshare) <br>
+[Kill Fly Alien](https://github.com/cesarmanholer/Kill-Fly-Alien) <br>
+[Suporte via Ticket](https://github.com/cesarmanholer/Suporte-tickets)
